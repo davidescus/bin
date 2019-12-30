@@ -1,2 +1,2 @@
 # bin
-Collection of executable (custom)tools that helps the development process
+Collection of (custom)tools (executable or scripts) that helps the development process
